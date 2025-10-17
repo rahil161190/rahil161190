@@ -6,6 +6,6 @@
 📍 Based in Gurugram, India
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rahil161190/)
+- [LinkedIn](linkedin.com/in/rahil-qureshi-453a10123)
 - [Scaler Profile](https://www.scaler.com/academy/profile/rahil161190/)
 - [Website](https://datascienceportfol.io/rahilidentified)

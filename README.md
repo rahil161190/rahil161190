@@ -7,5 +7,5 @@ Hi, I'm Rahil 👋
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rahil-qureshi-453a10123)
-- [Scaler Profile](https://www.scaler.com/academy/profile/rahil161190/)
+- [Scaler Profile]([https://www.scaler.com/academy/profile/rahil161190/](https://www.scaler.com/academy/profile/4b2bddd52d32/))
 - [Website](https://datascienceportfol.io/rahilidentified)

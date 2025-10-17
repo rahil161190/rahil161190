@@ -1,4 +1,4 @@
-<img width="733" height="428" alt="image" src="https://github.com/user-attachments/assets/11ece2b9-eca2-4bd9-af0a-56f717279174" /># Hi, I'm Rahil 👋
+Hi, I'm Rahil 👋
 
 📊 Data Science, Machine Learning, AI, GenAI  
 🎓 Master's in Computer Science — Specialization in AI & ML  

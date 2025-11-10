@@ -1,6 +1,6 @@
 Hi, I'm Rahil 👋
 
-📊 Data Science, Machine Learning, AI, GenAI  
+📊 Data Analyst,Data Science, Machine Learning, AI, GenAI  
 🎓 Master's in Computer Science — Specialization in AI & ML  
 🧠 Analytical, data-driven mindset focused on scalable, real-world impact  
 📍 Based in Gurugram, India
